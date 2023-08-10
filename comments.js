@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // run in terminal: node comments.js
 // open browser: http://localhost:8080/
 
